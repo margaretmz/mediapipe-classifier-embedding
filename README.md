@@ -1,2 +1,3 @@
-# MediaPipe Tutorials
+# MediaPipe Image Classifier and Embedding
+
 A few examples of how to use MediaPipe model maker and Android tasks...
